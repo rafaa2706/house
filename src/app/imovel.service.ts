@@ -29,6 +29,21 @@ export class ImovelService {
               "chave":"Piscina",
               "valor":"sim"
           }
+      ],
+      "aluguel":[
+        {
+            "chave": "Aluguel mensal",
+            "valor": 4500.00
+        },
+        {
+            "chave": "Aluguel anual",
+            "valor": 50000.00
+        },
+        {
+            "chave": "Aluguel por dois anos",
+            "valor": 1900000.00
+        }
+
       ]
   },
 
@@ -47,7 +62,8 @@ export class ImovelService {
               "chave":"Banheiro",
               "valor": 1
           }  
-      ]
+      ],
+      "aluguel":[]
 
   },
 
@@ -79,7 +95,8 @@ export class ImovelService {
               "valor":"Frutiferas"
           }
 
-      ]
+      ],
+      "aluguel":[]
   },
 
   {
@@ -92,7 +109,8 @@ export class ImovelService {
       "tipo":"casa",
       "lat": -22.7052427,
       "lng": -22.7052427,
-      "adicionais":[]
+      "adicionais":[],
+      "aluguel":[]
   },
 
   {
@@ -105,7 +123,8 @@ export class ImovelService {
       "tipo":"casa",
       "lat": -22.7052427,
       "lng": -22.7052427,
-      "adicionais":[]
+      "adicionais":[],
+      "aluguel":[]
   },
 
 
@@ -119,7 +138,8 @@ export class ImovelService {
       "tipo":"casa",
       "lat": -22.7052427,
       "lng": -22.7052427,
-      "adicionais":[]
+      "adicionais":[],
+      "aluguel":[]
   },
 
   {
@@ -132,7 +152,8 @@ export class ImovelService {
       "tipo":"casa",
       "lat": -22.7052427,
       "lng": -22.7052427,
-      "adicionais":[]
+      "adicionais":[],
+      "aluguel":[]
   },
 
   {
@@ -145,7 +166,8 @@ export class ImovelService {
       "tipo":"casa",
       "lat": -22.7052427,
       "lng": -22.7052427,
-      "adicionais":[]
+      "adicionais":[],
+      "aluguel":[]
   },
   {
       "id": 9,
@@ -157,7 +179,8 @@ export class ImovelService {
       "tipo":"apartamento",
       "lat": -22.7052427,
       "lng": -22.7052427,
-      "adicionais":[]
+      "adicionais":[],
+      "aluguel":[]
   },
 
   {
@@ -170,7 +193,8 @@ export class ImovelService {
       "tipo":"casa",
       "lat": -22.7052427,
       "lng": -22.7052427,
-      "adicionais":[]
+      "adicionais":[],
+      "aluguel":[]
   },
 
 ] 
