@@ -1,7 +1,12 @@
 article {
     padding: 10px 0px 40px 0px !important;
   }
-  
+  .voltar{
+    width: 3%;
+    position: absolute;
+    top: 6.5%;
+    left: 14%;
+  }
   h2 {
     font-size: 35px !important;
   }
