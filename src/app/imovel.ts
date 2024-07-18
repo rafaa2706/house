@@ -16,6 +16,7 @@ export interface Imovel{
     estado:String;
     tipo: String;
     favorito: boolean;
+    valor:number;
     adicionais: Propriedades[];
     aluguel:DetalhesAluguel[];
 }
